@@ -1,2 +1,4 @@
-# hello-world
-autography
+# hello-world 
+
+Hi I'm  Jerry
+
